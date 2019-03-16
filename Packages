@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.mlights999.spotilife
+Version: 0.0.2
+Section: Tweaks
+Maintainer: MattyP
+Depends: firmware (>10.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.mlights999.spotilife_0.0.2_iphoneos-arm.deb
+Size: 13434
+MD5sum: 31f76d6f3812ff348e21b610a6d6f82d
+Description: Tweak to block Spotify ads
+Name: Spotilife
+Author: Julioverne
+Depiction: https://mlights999.github.io/cydia/depictions/?p=com.mlights999.spotilife
