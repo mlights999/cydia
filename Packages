@@ -33,10 +33,10 @@ Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>12.0)
 Architecture: iphoneos-arm
 Filename: ./debs/eqe.deb
-Size: 5,069,110
+Size: 5069110
 MD5sum: 4833e9ce2b9e4ea07d5adc1127574e6b
-Description: This is a sample old package. Firmware should be lower than 7.0
+Description: System-wide parametric equalizer
 Name: EQE
-Author: Reposi3 <reposithree@gmail.com>
+Author: mlights999
 Depiction: https://mlights999.github.io/cydia/depictions/eqe
 
