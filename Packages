@@ -26,7 +26,7 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: eqe
+Package: com.mlights999.eqe
 Version: 2.0.10~beta
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
