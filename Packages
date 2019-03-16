@@ -54,5 +54,17 @@ Name: EQE
 Author: r333d
 Depiction: https://mlights999.github.io/cydia/depictions/?p=com.mlights999.eqe
 
-
+Package: com.mlights999.JailProtect
+Version: 0.0~beta4a
+Section: Tweaks
+Maintainer: MattyP
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.mlights999.jailprotect_0.0~beta4a_iphoneos-arm.deb
+Size: 53168
+MD5sum: 593b42aeab259fd500e32f99ac598373
+Description: Substrate Killer
+Name: JailProtect
+Author: julioverne
+Depiction: https://mlights999.github.io/cydia/depictions/?p=com.mlights999.JailProtect
 
